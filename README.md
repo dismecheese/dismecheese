@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Marzella! 👋
 
-<!--
-**dismecheese/dismecheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer and UI/UX enthusiast passionate about building clean, scalable, and well-architected web applications. Currently wrapping up my degree in Information Technology, I love bridging the gap between robust backend logic and intuitive, user-centric design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 **Focus Areas:** Enterprise-grade software architecture, clean code, and interactive web ecosystems.
+- 🎓 **Current Endeavors:** Deepening my practical experience in full-stack engineering through collaborative software development initiatives and real-world internships.
+- 🎨 **Creative Side:** When I'm not coding, I design interfaces in Figma, edit videos, and explore visual storytelling.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, TypeScript, Blazor, HTML5, CSS3 |
+| **Backend & APIs** | C#, .NET, Node.js |
+| **Databases** | SQL |
+| **Architecture & Design** | Clean Architecture, SOLID Principles, MVC, MVVM |
+| **Design & Media** | Figma |
+
+---
+
+### 📂 Featured Projects
+
+#### **eSkolar**
+A comprehensive web-based scholarship management and application system designed to streamline the evaluation, submission, and tracking process for students and administrators alike. 
+
+#### **PinPan**
+A conceptual web application focused on localized mapping services, designed to connect users with local vendors and community services seamlessly.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="300"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/marzellanicolecapin/)
+- **Email:** capinmarzella2004@gmail.com
