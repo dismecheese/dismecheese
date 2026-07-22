@@ -36,5 +36,5 @@ A conceptual web application focused on localized mapping services, designed to 
 
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/marzellanicolecapin/)
+- **LinkedIn:** [linkedin.com/in/[your-profile](https://www.linkedin.com/in/marzellanicolecapin/)]
 - **Email:** capinmarzella2004@gmail.com
